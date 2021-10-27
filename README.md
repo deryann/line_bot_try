@@ -12,5 +12,6 @@
    
 *  Reference 
    - https://yaoandy107.github.io/line-bot-tutorial/
-
+   -  python api restful 語法呼叫
+      - http://white5168.blogspot.com/2017/01/line-notify-4-line-notify.html#.YXkABp5BxG4
 
